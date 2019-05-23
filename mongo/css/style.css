@@ -1,0 +1,55 @@
+body{
+    background: #fff;
+    color: #fff
+}
+
+.navbar{
+    border-bottom: #333 ;
+    height: 45px;
+    opacity: 2;
+    float: left;
+}
+
+.nav-link {
+    color:#232323;
+    margin-top: 3px;
+}
+
+
+.navbar-brand {
+   margin-top: 3px;
+    color: #373535;
+    font-size: 20px;
+}
+
+.dropdown-menu{
+    background-color: rgb(110, 76, 76);
+  
+}
+
+#username{
+    width: 180px;
+}
+#pwd{
+    width: 100px
+}
+
+#agent{
+    width: 2.5cm;
+}
+
+#price{
+ width: 3cm;
+}
+
+#text{
+    color: black;
+}
+
+#btn{
+    height: 38px;
+}
+
+  
+
+
